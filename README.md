@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm Ava! I like evolutionary algorithms and learning new things.
 <!--
 **avahajr/avahajr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
