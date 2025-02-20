@@ -1,5 +1,5 @@
 ## 👋 Hi there!  
-I'm Ava, and I just graduated with a Computer Science degree from at Barnard College of Columbia University. Ask me about:
+I'm Ava, and I just graduated with a degree in Computer Science from Barnard College of Columbia University. Ask me about:
 
 - Evolutionary algorithms
 - Applications for generative AI
