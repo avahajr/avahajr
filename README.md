@@ -1,5 +1,5 @@
 ## 👋 Hi there!  
-I'm Ava, and I'm a senior at Barnard College of Columbia University studying Computer Science. Ask me about:
+I'm Ava, and I just graduated with a Computer Science degree from at Barnard College of Columbia University. Ask me about:
 
 - Evolutionary algorithms
 - Applications for generative AI
