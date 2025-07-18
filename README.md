@@ -5,8 +5,4 @@ I'm Ava, and I just graduated with a degree in Computer Science from Barnard Col
 - Applications for generative AI
 - Full-stack development
 
-...and anything else!
-
-🎯 I'm targeting software engineering roles. 
-
-Like what you see here? You'll love [my resume](./Ava_Hajratwala_resume.pdf) :)
+...and anything else! We loooove a collab.
