@@ -1,8 +1,9 @@
 ## 👋 Hi there!  
-I'm Ava, and I love computers. Ask me about:
+I'm Ava, and I love computers. 
 
-- Evolutionary algorithms/artificial life
+I work as a full-stack web developer during the week, but I also enjoy:
+
 - ESP-32 development boards
-- Full-stack development
+- Genetic algorithms & Artificial life
 
-...and anything else!
+Send me an email: avahajr (at) gmail (dot) com.
