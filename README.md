@@ -1,8 +1,8 @@
 ## 👋 Hi there!  
 I'm Ava, and I love computers. Ask me about:
 
-- Evolutionary algorithms
-- Applications for generative AI
+- Evolutionary algorithms/artificial life
+- ESP-32 development boards
 - Full-stack development
 
 ...and anything else!
